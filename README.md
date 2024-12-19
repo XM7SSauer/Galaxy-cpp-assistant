@@ -15,4 +15,4 @@ This project implements a graphical virtual assistant in C++ using the `graphics
 
 1. Clone this repository
    ```bash
-    git clone https://github.com/tu-usuario/galaxy-asistente.git
+    git clone https://github.com/XM7SSauer/Galaxy-cpp-assistant.git
